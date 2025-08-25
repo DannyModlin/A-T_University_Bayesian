@@ -3,6 +3,7 @@
 Welcome to our Bayesian Workshop hosted by NC A&T University.
 
 Our time together will be divided across three topics of interest with Bayesian Analysis in SAS.
+If you do not have access to SAS Viya for Learners, please open the file VFL4_Access_Instructions.pdf.
 
 ## Hour 1:
 
